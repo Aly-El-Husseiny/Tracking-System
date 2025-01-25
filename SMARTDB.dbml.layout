@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.625, 59.875" name="SMARTDB">
+  <DataContextMoniker Name="/SMARTDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a3585aa0-7b43-4bbe-9ae9-4f957468961a" absoluteBounds="6, 9.75, 2, 48.307843424479167">
+      <DataClassMoniker Name="/SMARTDBDataContext/BW_AUFTR_KOPF" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8a87345b-f310-43ac-a776-33d274300bea" absoluteBounds="6.015, 10.21, 1.9700000000000002, 47.747843424479164" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="295855e5-e78c-421a-8df9-8bbf3bb3b652" absoluteBounds="2.375, 11.875, 2, 47.730939127604167">
+      <DataClassMoniker Name="/SMARTDBDataContext/BW_AUFTR_PO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3b4b948a-5d21-430c-8aec-80f06acc5d79" absoluteBounds="2.3899999999999997, 12.335, 1.9700000000000002, 47.170939127604164" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6 : 34.9664217122396); (4.375 : 34.9664217122396)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/SMARTDBDataContext/BW_AUFTR_KOPF/BW_AUFTR_KOPF_BW_AUFTR_PO" />
+      <nodes>
+        <classShapeMoniker Id="a3585aa0-7b43-4bbe-9ae9-4f957468961a" />
+        <classShapeMoniker Id="295855e5-e78c-421a-8df9-8bbf3bb3b652" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="a7038923-a01b-49ee-86d3-073334db25d5" absoluteBounds="9.375, 12.125, 2, 27.923891601562502">
+      <DataClassMoniker Name="/SMARTDBDataContext/BW_AUFTR_STKL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="051ca905-23ef-4334-a4e0-8ed4eda6fbf5" absoluteBounds="9.39, 12.585, 1.9700000000000002, 27.3638916015625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.375 : 58.8631412760417); (10.375 : 58.8631412760417); (10.375 : 40.0488916015625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/SMARTDBDataContext/BW_AUFTR_PO/BW_AUFTR_PO_BW_AUFTR_STKL" />
+      <nodes>
+        <classShapeMoniker Id="295855e5-e78c-421a-8df9-8bbf3bb3b652" />
+        <classShapeMoniker Id="a7038923-a01b-49ee-86d3-073334db25d5" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="68bd6776-3364-4808-9123-c07a60651c48" absoluteBounds="6.25, 3.875, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/SMARTDBDataContext/BW_AUFTR_KTXT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a80e8033-94c7-4def-bd13-d5c9c6997435" absoluteBounds="6.265, 4.335, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(7.125 : 9.75); (7.125 : 6.22280110677083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SMARTDBDataContext/BW_AUFTR_KOPF/BW_AUFTR_KOPF_BW_AUFTR_KTXT" />
+      <nodes>
+        <classShapeMoniker Id="a3585aa0-7b43-4bbe-9ae9-4f957468961a" />
+        <classShapeMoniker Id="68bd6776-3364-4808-9123-c07a60651c48" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

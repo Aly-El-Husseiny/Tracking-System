@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\IrisSkinSample\IrisSkinSample\bin\Debug\IrisSkinSample.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\IrisSkinSample\IrisSkinSample\bin\Debug\IrisSkinSample.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\IrisSkinSample\IrisSkinSample\bin\Debug\IrisSkinSample.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\IrisSkinSample\IrisSkinSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\IrisSkinSample\IrisSkinSample\obj\Debug\IrisSkinSample.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\IrisSkinSample\IrisSkinSample\obj\Debug\IrisSkinSample.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\IrisSkinSample\IrisSkinSample\obj\Debug\IrisSkinSample.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\IrisSkinSample\IrisSkinSample\obj\Debug\IrisSkinSample.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\IrisSkinSample\IrisSkinSample\obj\Debug\IrisSkinSample.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\IrisSkinSample\IrisSkinSample\obj\Debug\IrisSkinSample.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\IrisSkinSample\IrisSkinSample\bin\Debug\IrisSkin2.dll

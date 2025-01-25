@@ -1,0 +1,665 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SMARTDB" Class="SMARTDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ALFAK\ALFAKSVR;Initial Catalog=SMARTDB;Integrated Security=True" SettingsObjectName="Cutting.Properties.Settings" SettingsPropertyName="SMARTDBConnectionString2" Provider="System.Data.SqlClient" />
+  <Table Name="SYSADM.BW_AUFTR_KOPF" Member="BW_AUFTR_KOPFs">
+    <Type Name="BW_AUFTR_KOPF">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NR_LIEFERSCHEIN" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SU_LFM_REAL" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="STATUS" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DATUM_ERF" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="DATUM_AB" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DATUM_LIEFERSCHEIN" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DATUM_RECHNUNG" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DATUM_PROD1" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DATUM_PROD2" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DATUM_PROD3" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DATUM_LIEFER_PLAN" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DATUM_LIEFER_TAT" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DATUM_LIEFERWUNSCH" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="PRIORITAET" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="DATUM_FAELLIGK" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DATUM_BEST" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="LAUF_PROD1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LAUF_PROD2" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LAUF_PROD3" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="BEST_TEXT1" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="BEST_TEXT2" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AH_HAUPT_AUFTR" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AH_IDENT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AH_LIEFERANT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="AH_MCODE" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="AH_KOPF" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AH_NAME1" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AH_NAME2" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AH_NAME3" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AH_STRASSE" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AH_PLZ" Type="System.String" DbType="VarChar(11)" CanBeNull="true" />
+      <Column Name="AH_ORT" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AH_LAND" Type="System.String" DbType="VarChar(6) NOT NULL" CanBeNull="false" />
+      <Column Name="AH_TELEFON" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AH_FAX" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AH_ANREDE" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AH_PARTNER" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AH_BIT1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="AL_IDENT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AL_KOPF" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AL_NAME1" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AL_NAME2" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AL_NAME3" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AL_STRASSE" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AL_PLZ" Type="System.String" DbType="VarChar(11)" CanBeNull="true" />
+      <Column Name="AL_ORT" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AL_LAND" Type="System.String" DbType="VarChar(6) NOT NULL" CanBeNull="false" />
+      <Column Name="AL_TELEFON" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AL_FAX" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AL_ANREDE" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AL_PARTNER" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AR_IDENT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AR_KOPF" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AR_NAME1" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AR_NAME2" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AR_NAME3" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AR_STRASSE" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AR_PLZ" Type="System.String" DbType="VarChar(11)" CanBeNull="true" />
+      <Column Name="AR_ORT" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AR_LAND" Type="System.String" DbType="VarChar(6) NOT NULL" CanBeNull="false" />
+      <Column Name="AR_TELEFON" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AR_FAX" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AR_ANREDE" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AR_PARTNER" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="OR_SPRACH_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="OR_SPRACH_BASIS" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="OR_MANDANT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="OR_AVBEREICH" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="OR_BEARBEITER" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="OR_FACHBERATER" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="OR_GESCHART" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="OR_SPERRKZ" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="OR_ADIENST" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="OR_VERPACKUNG" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="OR_LIEFERBED" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="OR_TOUR" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="OR_AWTOUR" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="OR_FAHRER" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="OR_ZOLLTOUR" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="OR_GRUPPE" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="KO_MASSEINH" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SU_LFM_FAKT" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="KO_OBJEKT_KUNDE" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="KO_OBJEKT_LIEF" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="KO_SAMMELRE" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="KO_TEILFAK" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="KO_TEILLIEF" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ENTFERNUNG" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="KO_NETTOPREISE" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="KO_FAXVERSAND" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="OR_ADIENST2" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="SU_QM_REAL" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="SU_QM_FAKT" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="SU_GEWICHT" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="SU_GEWICHT_TARA" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="SU_STUNDEN" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="SU_KM" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="SU_SPRLFM_FAKT" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="SU_SPRLFM_REAL" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_VALUTAKURS" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST1" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST2" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST1_BASIS" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ZAHLBED" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_ZAHLWEG" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_WAEHRUNG" Type="System.String" DbType="VarChar(8) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_MWST2_BASIS" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST1_BASIS_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST2_BASIS_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST1_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FI_MWST2_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FI_RABATT1" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_NETTO" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_BRUTTO" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_NETTO_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_UST_ID" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="FI_FB_KZ" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FI_RLEG_TAG" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FI_ZAHL_TAG1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FI_BETR_BRUTTO_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_FESTPREIS" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST1" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST2" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST1_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST2_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_ZWSUMME2" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_ZWSU1_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_ZWSU2_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_EK1" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_EK2" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_SKONTO_BASIS" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_SKONTO_BASIS_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_SKONTO" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_SKONTO_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_PROV" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_ZWSUMME1" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="EK_BETR_FESTPREIS" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_FESTPR_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="MINMENGE" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="BIT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ETIKETTEN_TYP" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DOK_TYP" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_ZAHL_TAG2" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FI_ZAHL_TAG3" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LADELISTE" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="OR_LKW" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="AH_PLZ_POSTFACH" Type="System.String" DbType="VarChar(11)" CanBeNull="true" />
+      <Column Name="AH_POSTFACH" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AR_PLZ_POSTFACH" Type="System.String" DbType="VarChar(11)" CanBeNull="true" />
+      <Column Name="AR_POSTFACH" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AH_PROVINZ" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="AL_PROVINZ" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="AR_PROVINZ" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="AH_LIEFER_KZ" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="KO_PREISDRUCK" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="HK_MATGEMKOST1" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="MOD" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="KURS_FIX" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="UMS_VERTR2" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TOUREN_RANGFOLGE" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="HK_MATGEMKOST2" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_MATGEMKOST3" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_LOHNNEBKOST" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="AH_MAIL" Type="System.String" DbType="VarChar(254)" CanBeNull="true" />
+      <Column Name="DOC_CLIP_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DATUM_ANLIEFERUNG" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="FW_ART" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CONTRACT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CLAIM" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CLAIM_ORDER" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FREMD_KEY" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="STEUERNUMMER" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="HK_VOLLGEWINN" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VERWGEMKOST" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VERTRGEMKOST" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_GEWINN" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_SONZU2" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_BETR_EK3" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VOLLEK1" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VOLLEK2" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VOLLEK3" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VOLLSON" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VOLLVERW" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VOLLVERT" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VOLLSONZU1" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VOLLSONZU2" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="KZ_INDIV_KUNDE" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="HK_AKTIV" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AH_ARCHITECT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NR_RECHNUNG" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="KO_FALZ" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="SU_STUECK" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="SU_STUECK_ISO" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="SZR_PRODART" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="SZR_PRODGRP" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="SZR_VARIANTE" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ETIK_LAYOUT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FER_RAHMENNR" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ZUSCHLAG_BIT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="MINMENGE_EK" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="MASSRUNDUNG" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MASSRUNDUNG_EK" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="KATEGORIE" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="VAR_DATA" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="KO_PRIVAT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="KO_STEUERFLAG" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FI_MWST3_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FI_MWST3" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST3_BASIS" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST3_BASIS_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST3" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST3_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST4_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FI_MWST4" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST4_BASIS" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST4_BASIS_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST4" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST4_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST5_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FI_MWST5" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST5_BASIS" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST5_BASIS_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST5" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST5_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_TEILZAHL_BETR1" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_TEILZAHL_BETR2" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_TEILZAHL_BETR3" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_TEILZAHL_BETR4" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_TEILZAHL_BETR5" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_TEILZAHL_BETR6" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_TEILZAHL_BETR7" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_TEILZAHL_DATUM1" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="FI_TEILZAHL_DATUM2" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="FI_TEILZAHL_DATUM3" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="FI_TEILZAHL_DATUM4" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="FI_TEILZAHL_DATUM5" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="FI_TEILZAHL_DATUM6" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="FI_TEILZAHL_DATUM7" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="PRINTGUID1" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="PRINTGUID2" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="PRINTGUID3" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="PRINTSEQ1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PRINTSEQ2" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PRINTSEQ3" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FI_KALK_FRACHTK" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="ROWID" Type="System.String" DbType="VarChar(254)" CanBeNull="true" />
+      <Association Name="BW_AUFTR_KOPF_BW_AUFTR_PO" Member="BW_AUFTR_POs" ThisKey="ID" OtherKey="ID" Type="BW_AUFTR_PO" />
+      <Association Name="BW_AUFTR_KOPF_BW_AUFTR_KTXT" Member="BW_AUFTR_KTXTs" ThisKey="ID" OtherKey="ID" Type="BW_AUFTR_KTXT" />
+    </Type>
+  </Table>
+  <Table Name="SYSADM.BW_AUFTR_POS" Member="BW_AUFTR_POs">
+    <Type Name="BW_AUFTR_PO">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="POS_NR" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="POS_TEXT" Type="System.String" DbType="VarChar(6)" CanBeNull="true" />
+      <Column Name="POS_GRUPPE" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="POS_KOMMISSION" Type="System.String" DbType="VarChar(80)" CanBeNull="true" />
+      <Column Name="POS_KUNDENPOS" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="POS_BIT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="POS_STTXT_NR" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="POS_STATUS" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="POS_AUFTRINFO" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="POS_LIEFERANT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PROD_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PROD_BEZ1" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="PROD_BEZ2" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="PROD_BEZ3" Type="System.String" DbType="VarChar(65)" CanBeNull="true" />
+      <Column Name="PROD_KURZ_BEZ" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="PROD_FARB_BEZ" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="PROD_WGR" Type="System.String" DbType="VarChar(3) NOT NULL" CanBeNull="false" />
+      <Column Name="PROD_WGR_STAT" Type="System.String" DbType="VarChar(3) NOT NULL" CanBeNull="false" />
+      <Column Name="PROD_KMB" Type="System.String" DbType="VarChar(3) NOT NULL" CanBeNull="false" />
+      <Column Name="PROD_KMB_STAT" Type="System.String" DbType="VarChar(3) NOT NULL" CanBeNull="false" />
+      <Column Name="PROD_MEEINHEIT" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="SPRACH_BASIS" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PROD_KOMONR" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PROD_PRODART" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PROD_PRODGRP" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PR_LISTE" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PR_SCHLUESSEL" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PR_EINHEIT" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="PR_LISTE_EK" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PR_SCHLUESSEL_EK" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PR_EINHEIT_EK" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="PP_LFM" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="PP_GEWICHT" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="PP_GEWICHT_TARA" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="PP_QM_FAKT" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="PP_LFM_FAKT" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="PP_DICKE" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="PP_FALZ" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="PP_PLANSTK" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="PP_ORIG_MENGE" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="PP_TEILGEL_MENGE" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_PREIS_ME" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_PREIS_ME_FW" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_RABATT1" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_BRUTTO" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="KZ_LAGER" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="KZ_BESTELLUNG" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FI_KZ_SKONTO" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FI_BRUTTO_FW" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_NETTO" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_NETTO_FW" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_NETTO_GES" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_NETTO_GES_FW" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_POS_STK" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_POS_STK_FW" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_POS_GES" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_POS_GES_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_FESTPREIS" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_QM" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_QM_FAKT" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_LFM" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_LFM_FAKT" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_KZ_STEUER" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="EK_PREIS_ME" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_RABATT" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_BRUTTO" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_NETTO" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_NETTO_GES" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_FESTPREIS" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_POS_STK" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_POS_GES" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_ZEIT" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_VK_URSPRUNG" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="MISCHFAKTOR1" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="MISCHFAKTOR2" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="MISCHFAKTOR3" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FER_LAUF1" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FER_LINIE" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="KZ_SERIE" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FER_UVRAND" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FER_KSCHUTZ" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FER_STRUKTURVERL" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FER_STRUKTURSEITE" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FER_RAHMENNR" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FER_RAHMENTEXT" Type="System.String" DbType="VarChar(80)" CanBeNull="true" />
+      <Column Name="PREISRELEVANT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PROD_LAGERORT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="LAGER_IDENT" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="PROVISIONSSATZ" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FER_GEST_TYP" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FER_GEST_ANZ" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="REKLA_ORT" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="REKLA_GRUND" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="MISCH1" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="MISCH2" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="MISCH3" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="LAG_MIN_BEST" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="LAG_BEST_MENGE" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_ZEIT_STK" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="KOSTENSTELLE" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="KOSTENART" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="PROVISIONSSATZ2" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="KZ_AUTOZUSCHN" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="POS_TEXT1" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="POS_TEXT2" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="POS_TEXT3" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="POS_TEXT4" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="POS_TEXT5" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="AUFTR_REF" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="POS_REF" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="RUECKSCHNITT" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="MINMENGE" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HASH" Type="System.String" DbType="VarChar(16) NOT NULL" CanBeNull="false" />
+      <Column Name="PMGRP" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PROD_GESTELLNR" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="HK_MATGEMKOST" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="GRENZTYP1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="KZ_RANDENT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="LAG_LAGER_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="GRUPPE" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VOLLGEWINN" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="GRENZTYP2" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GRENZTYP3" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PACKREGEL" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="POS_DOCK" Type="System.String" DbType="VarChar(80)" CanBeNull="true" />
+      <Column Name="PMG_DEF" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ITM_REGEL_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ALTERNATIV" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="GRENZTYP4" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PREISRELEVANTEK" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="POS_BIT2" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VERWGEMKOST" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="SKIZZEN_DRUCK" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="POS_BLOCK" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FER_CUTTING_ONLY" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VERTRGEMKOST" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="VERS_BIT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FER_GEST_NR" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="BOHR_BEZUG" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="EK_LIEFERANT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PREIS_BIT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="HK_GEWINN" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_SONZU1" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_SONZU2" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_EK1" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_EK2" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_EK3" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VOLLEK1" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VOLLEK2" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VOLLEK3" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VOLLSON" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VOLLVERW" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VOLLVERT" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VOLLSONZU1" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VOLLSONZU2" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VERLUST" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VOLLSELBKOST" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FER_BESCHAFFARTNR" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FER_BESCHAFFARTTYP" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FER_BESCHICH_SEITE" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="KZ_FIXIERT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DATUM" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="MITARB_ID" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="POS_VERPACKUNG" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="MINPREIS_PWD" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="PP_MENGE" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="PP_BREITE" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="PP_HOEHE" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="PP_QM" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="POS_BIT3" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AUFBAU_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ISOAUFBAUKEY" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FI_ZUBASIS" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="LIORDER_NR" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LIORDER_VSG" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="ETIK_STEUERUNG" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="PROD_ZUSCHLAG_BIT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FORMGRP" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="RESTERROR" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CE_KZ" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST1" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST2" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST1_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST2_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="PR_GRUPPE" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="FI_POS_GES_MAN" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_POS_GES_BIT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FI_POS_GES_BEM" Type="System.String" DbType="VarChar(80)" CanBeNull="true" />
+      <Column Name="FI_POS_GES_RAB" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="CE_FLAG" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CE_CPIP" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="CE_LEVEL" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CE_BIT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST1" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST2" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST1_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST2_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="MINMENGE_EK" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="MASSRUNDUNG" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MASSRUNDUNG_EK" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MAKRO_NAME" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="PROD_FARB_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="VAR_DATA" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="VPOS_NR" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_AUTO" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_AUTO" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_AUTO_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="EK_ZUBASIS" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="REF_BEST_ID" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="REF_BEST_POS" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="REF_AUSLIEF_AUFTR_ID" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="REF_AUSLIEF_AUFTR_POS" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="REF_ENDKUNDE_BEST_ID" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="REF_ENDKUNDE_BEST_POS" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="SKIZZEN_DRUCK_SPR" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FI_MWST1" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST2" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST3" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST4" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST5" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST3" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST3_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST3" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST3_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST4" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST4_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST4" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST4_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST5" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_BETR_MWST5_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST5" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST5_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_POS_GES_AB" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="PREIS_AEN_BENUTZER" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="PREIS_AEN_DATUM" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="EK_AUTO_STAT" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_AUTO_STAT" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_AUTO_STAT_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="PRODUCTION_DATE" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="PP_UEBERMENGE" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="PP_UNTERMENGE" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="PP_WUNSCHMENGE" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="ROWID" Type="System.String" DbType="VarChar(254)" CanBeNull="true" />
+      <Association Name="BW_AUFTR_PO_BW_AUFTR_STKL" Member="BW_AUFTR_STKLs" ThisKey="ID,POS_NR" OtherKey="ID,POS_NR" Type="BW_AUFTR_STKL" />
+      <Association Name="BW_AUFTR_KOPF_BW_AUFTR_PO" Member="BW_AUFTR_KOPF" ThisKey="ID" OtherKey="ID" Type="BW_AUFTR_KOPF" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="SYSADM.BW_AUFTR_STKL" Member="BW_AUFTR_STKLs">
+    <Type Name="BW_AUFTR_STKL">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="POS_NR" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="PREISRELEVANTEK" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PROD_RELEVANT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BOM_MASTER_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BEARB_INS" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="STL_BEZ" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="PROD_FARB_BEZ" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="STL_KURZ_BEZ" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="STL_STATUS" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="STL_DRUCKPOS" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="STL_MOD" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="STL_BIT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="STL_PRODART" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="STL_PRODGRP" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="STL_WGR" Type="System.String" DbType="VarChar(3) NOT NULL" CanBeNull="false" />
+      <Column Name="STL_WGR_STAT" Type="System.String" DbType="VarChar(3) NOT NULL" CanBeNull="false" />
+      <Column Name="STL_KMB" Type="System.String" DbType="VarChar(3) NOT NULL" CanBeNull="false" />
+      <Column Name="STL_KMB_STAT" Type="System.String" DbType="VarChar(3) NOT NULL" CanBeNull="false" />
+      <Column Name="STL_LFM" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="STL_QM" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="STL_LFM_FAKT" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="STL_QM_FAKT" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="STL_STTXT_NR" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SPRACH_BASIS" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="STL_PLANSTK" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="PR_RABATT" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_NETTO_GES" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_ZEIT" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="STL_KZ_SKONTO" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PR_PREIS_ME" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="KZ_LAGER" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="KZ_BESTELLUNG" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="KZ_AUTOZUSCHLAG" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ID_LIEFERANT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FER_STRUKTURVERL" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FER_STRUKTURSEITE" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FER_REDUKTION" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FER_LAUF" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PR_LISTE" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PR_SCHLUESSEL" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PR_EINHEIT" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="PR_LISTE_EK" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PR_SCHLUESSEL_EK" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PR_EINHEIT_EK" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="PR_MEEINHEIT" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="PR_PREIS_ME_FW" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="PR_PREIS_OFFEN" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PR_PREISDRUCK" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PR_ZUSCHLAGART" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PR_BETR_NETTO" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="PR_BETR_NETTO_FW" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="PR_BETR_BRUTTO" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="PR_BETR_BRUTTO_FW" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="PR_NETTO_GES" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="PR_NETTO_GES_FW" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_QM" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_QM_FAKT" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_LFM" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_LFM_FAKT" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_PREIS_ME" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_RABATT" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_BRUTTO" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="EK_NETTO" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_VK_URSPRUNG" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="MINMENGE" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="VER_PREIS_ME" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="VER_RABATT" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="PREISRELEVANT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PROD_LAGERORT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="VER_BETR_NETTO" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="BOM_PRODUKT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BOM_ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="BOM_NODE" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BOM_POS" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BOM_LEVEL" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="KOSTENSTELLE" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="KOSTENART" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="KZ_AUTOZUSCHN" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="KZ_SN3" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="LAG_LAGER_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="HASH" Type="System.String" DbType="VarChar(16) NOT NULL" CanBeNull="false" />
+      <Column Name="STL_BIT2" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FI_KZ_STEUER" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FI_KZ_SKONTO" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="VER_BETR_BRUTTO" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FER_CUTTING_ONLY" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="VER_NETTO_GES" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="VER_EINHEIT" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="HK_MATGEMKOST" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="HK_VERLUST" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FER_BESCHAFFARTNR" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FER_BESCHAFFARTTYP" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PREIS_BIT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FER_BESCHICH_SEITE" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="STL_MENGE" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="STL_BREITE" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="STL_HOEHE" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="STL_DICKE" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="FI_ZUBASIS" Type="System.Decimal" DbType="Decimal(28,8) NOT NULL" CanBeNull="false" />
+      <Column Name="LIORDER_NR" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LIORDER_VSG" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="STL_BIT3" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PROD_ZUSCHLAG_BIT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CE_CPIP" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="CE_LEVEL" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CE_INFLUENCING" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST1" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST2" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST1_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST2_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="MINMENGE_EK" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="MASSRUNDUNG" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MASSRUNDUNG_EK" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MASS_BIT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PROD_FARB_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="GRENZTYP1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GRENZTYP2" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GRENZTYP3" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GRENZTYP4" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="EK_AUTO" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_AUTO" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_AUTO_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST1" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST2" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST3" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST4" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_MWST5" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST3" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST3_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST4" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST4_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST5" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_ITEM_MWST5_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="EK_AUTO_STAT" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_AUTO_STAT" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="FI_AUTO_STAT_FW" Type="System.Decimal" DbType="Decimal(28,8)" CanBeNull="true" />
+      <Column Name="BOM_BASE_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PRODUCTION_DATE" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="BOM_PUID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ROWID" Type="System.String" DbType="VarChar(254)" CanBeNull="true" />
+      <Association Name="BW_AUFTR_PO_BW_AUFTR_STKL" Member="BW_AUFTR_PO" ThisKey="ID,POS_NR" OtherKey="ID,POS_NR" Type="BW_AUFTR_PO" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="SYSADM.BW_AUFTR_KTXT" Member="BW_AUFTR_KTXTs">
+    <Type Name="BW_AUFTR_KTXT">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="LFD_NR" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TEXT_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DRUCK_KZ" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="MOD" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="BEZ" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="POS_KZ" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ROWID" Type="System.String" DbType="VarChar(254)" CanBeNull="true" />
+      <Association Name="BW_AUFTR_KOPF_BW_AUFTR_KTXT" Member="BW_AUFTR_KOPF" ThisKey="ID" OtherKey="ID" Type="BW_AUFTR_KOPF" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

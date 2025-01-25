@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 38" name="AlcimDB">
+  <DataContextMoniker Name="/AlcimDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="717c5574-4b94-401f-8717-2b7a12eabee1" absoluteBounds="5.5, 2.25, 2, 13.116681315104165">
+      <DataClassMoniker Name="/AlcimDBDataContext/fein_unit" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b7b7ae8e-9dbd-425a-acad-075cde7a451f" absoluteBounds="5.515, 2.71, 1.9700000000000002, 12.556681315104166" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="07865bce-ba1d-44c7-b19f-51cb0a39744f" absoluteBounds="2.125, 1.5, 2, 36.192853190104167">
+      <DataClassMoniker Name="/AlcimDBDataContext/pool_teile" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0ae0a273-3b8e-4945-a3c7-7e04a7d974c7" absoluteBounds="2.14, 1.96, 1.9700000000000002, 35.632853190104164" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

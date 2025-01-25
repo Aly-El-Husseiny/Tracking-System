@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Alcimdb" Class="AlcimDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ALCIM\ALCIMSVR;Initial Catalog=Alcimdb;Integrated Security=True" SettingsObjectName="Cutting.Properties.Settings" SettingsPropertyName="AlcimdbConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.fein_unit" Member="fein_units">
+    <Type Name="fein_unit">
+      <Column Name="sperrstation" Type="System.String" DbType="VarChar(6)" CanBeNull="true" />
+      <Column Name="sperrzeit" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="lastmodstation" Type="System.String" DbType="VarChar(6)" CanBeNull="true" />
+      <Column Name="lastmodzeit" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="auftnr" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="pos" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="u_pos" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="teile_nr" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="lfd_nummer" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="etikettnr" Type="System.String" DbType="VarChar(19)" CanBeNull="true" />
+      <Column Name="bde_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="serien_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="job" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="typ" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="los" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="bock" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="stapelnr" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="sequenzbock" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="sequenzlos" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="lauf" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="status" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="menge" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="split" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="mirror" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="muster" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="bearb_nr" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="fach_nr" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="o_typ" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="o_los" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="o_bock" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="o_stapelnr" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="o_fach_nr" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="o_sequenzbock" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="o_sequenzlos" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="together_kz" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="los_flag" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="buchungsmenge" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="sequenztyp" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="pmo_optiid" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="pmo_rackid" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="pmo_sequence" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="dickendiff" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="rotate" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="pack_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="spur" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="spur_typ" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="cutmirror" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="pmg_index" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="o_sequenztyp" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="group_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="plan_dauer" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="plan_dauer_ur" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="gruppenbc" Type="System.String" DbType="VarChar(19) NOT NULL" CanBeNull="false" />
+      <Column Name="PARAM1" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="PARAM2" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="PARAM3" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="PARAM4" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="PARAM5" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="orig_job" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="orig_los" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="orig_lfd" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="orig_muster" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="resolve_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="prodmirror" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.pool_teile" Member="pool_teiles">
+    <Type Name="pool_teile">
+      <Column Name="sperrstation" Type="System.String" DbType="VarChar(6)" CanBeNull="true" />
+      <Column Name="sperrzeit" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="lastmodstation" Type="System.String" DbType="VarChar(6)" CanBeNull="true" />
+      <Column Name="lastmodzeit" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="auftnr" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="pos" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="u_pos" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="teile_nr" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="teile_ebene" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="sl_tiefe" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="auftkz" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="oberteil_nr" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="unterteil_max" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="lauf" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="verwend_lauf" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="teile_kz" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="freigabe_teil" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="artnr" Type="System.Decimal" DbType="Decimal(12,0) NOT NULL" CanBeNull="false" />
+      <Column Name="glasart" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="glasart_bez" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="warengrp" Type="System.String" DbType="VarChar(6)" CanBeNull="true" />
+      <Column Name="produktgrp" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="breite" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="hoehe" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="dicke" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="menge" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="artbez1" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="artbez2" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="kurz_bez" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="etikett_kz" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="etikettnr_start" Type="System.String" DbType="VarChar(19)" CanBeNull="true" />
+      <Column Name="prioritaet" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="typen_vektor" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="einbautiefe" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="prod_term" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="ausgangsnr" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="ausgangsbock" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="bestell_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="sonder_kz1" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="sonder_kz2" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="linie" Type="System.String" DbType="VarChar(13)" CanBeNull="true" />
+      <Column Name="bearb_kz" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="struktur_typ" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="struktur_pos" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="beschicht_pos" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="beschicht_typ" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="modell_nr" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="stufen_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="korrektur_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="teilfert_kz" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="serien_kz" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="opti_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="text_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="uebermenge_kz" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="prodmenge" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="austausch_kz" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="auftragsmenge" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="otyp" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="utyp" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="modell_gruppe" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="modell_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="sprossen_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="logo_nr" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="logo_lage" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="o_giessharz_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="o_esg_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="o_vsg_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="o_iso_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="u_giessharz_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="u_esg_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="u_vsg_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="u_bestell_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="t_giessharz_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="t_esg_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="t_vsg_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="t_iso_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="param1" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="param2" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="param3" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="param4" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="param5" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="param6" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="param7" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="param8" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="param9" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="param10" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="status" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="statuszeit" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="beschaffungsart" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="ae_referenz" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="sondertext1" Type="System.String" DbType="VarChar(32) NOT NULL" CanBeNull="false" />
+      <Column Name="sondertext2" Type="System.String" DbType="VarChar(32) NOT NULL" CanBeNull="false" />
+      <Column Name="sondertext3" Type="System.String" DbType="VarChar(32) NOT NULL" CanBeNull="false" />
+      <Column Name="sondertext4" Type="System.String" DbType="VarChar(32) NOT NULL" CanBeNull="false" />
+      <Column Name="sondertext5" Type="System.String" DbType="VarChar(32) NOT NULL" CanBeNull="false" />
+      <Column Name="artikel_extra1" Type="System.String" DbType="VarChar(32) NOT NULL" CanBeNull="false" />
+      <Column Name="artikel_extra2" Type="System.String" DbType="VarChar(32) NOT NULL" CanBeNull="false" />
+      <Column Name="sonder_kz3" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="logo_seite" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="lager" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="auftragsdicke" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ttyp" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="b_klasse1_text" Type="System.String" DbType="VarChar(12) NOT NULL" CanBeNull="false" />
+      <Column Name="b_klasse2_text" Type="System.String" DbType="VarChar(12) NOT NULL" CanBeNull="false" />
+      <Column Name="b_klasse3_text" Type="System.String" DbType="VarChar(12) NOT NULL" CanBeNull="false" />
+      <Column Name="b_klasse4_text" Type="System.String" DbType="VarChar(12) NOT NULL" CanBeNull="false" />
+      <Column Name="b_klasse5_text" Type="System.String" DbType="VarChar(12) NOT NULL" CanBeNull="false" />
+      <Column Name="b_klasse6_text" Type="System.String" DbType="VarChar(12) NOT NULL" CanBeNull="false" />
+      <Column Name="b_klasse7_text" Type="System.String" DbType="VarChar(12) NOT NULL" CanBeNull="false" />
+      <Column Name="b_klasse8_text" Type="System.String" DbType="VarChar(12) NOT NULL" CanBeNull="false" />
+      <Column Name="o_tvg_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="beschicht1_artnr" Type="System.Decimal" DbType="Decimal(12,0) NOT NULL" CanBeNull="false" />
+      <Column Name="beschicht1_masch" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="beschicht1_kapa" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="beschicht1_pos" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="beschicht1_typ" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="beschicht1_ctrl" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="beschicht2_artnr" Type="System.Decimal" DbType="Decimal(12,0) NOT NULL" CanBeNull="false" />
+      <Column Name="beschicht2_masch" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="beschicht2_kapa" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="beschicht2_pos" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="beschicht2_typ" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="beschicht2_ctrl" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="laufweg" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="bearbfolge" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="mzo_id_phys_1" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="mzo_id_es_1" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="mzo_technologie1_1" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="mzo_id_phys_2" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="mzo_id_es_2" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="mzo_technologie1_2" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="mzo_id_phys_3" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="u_tvg_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="t_tvg_flag" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="prod_start" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="flaeche" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="los_flag" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="sonderglas" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="sonderglas_freigab" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="etikett_art" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="etikettnr_count" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="skizzen_art" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="routelog_id1" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="routelog_id2" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="routelog_id3" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="part_fixed" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="mzo_id_es_3" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="mzo_technologie1_3" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="rahmenskizzen_art" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="bearb_anz" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="bearb_dauer" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="bearbtiefe_anz" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="bearbtiefe_dauer" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="bearbfertig_anz" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="bearbfertig_dauer" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="auftnr_pos" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="scheibnr_u_oteil" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="teilnr_u_oteil" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="stklistentiefe" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="anz_bearb" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="etiketten_erzeugt" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="skizzen_erzeugt" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="rskizzen_erzeugt" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="cu_id" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="beschaffungsart0" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="entschicht_id" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="bestell_id" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="bdefertig" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="bdestueckoffen_anz" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="bdebearb_anz" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="beschich" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="stufen_ref" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="glas_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="glas_id10" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="vielfachheit" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="spalten" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="bde_serie" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="mindermenge" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="menge_nach" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="mindermenge_nach" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="freigabe_teil0" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="merke_beschaffung" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="gewicht_rechteck" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="lieferant" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

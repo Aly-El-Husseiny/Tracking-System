@@ -1,0 +1,1387 @@
+D:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Properties.Resources.resources
+D:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.GenerateResource.Cache
+D:\Tracking\Cutting\Cutting\bin\Debug\Cutting.exe
+D:\Tracking\Cutting\Cutting\bin\Debug\Cutting.pdb
+D:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.exe
+D:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.pdb
+D:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.MDItrack.resources
+D:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmcut.resources
+D:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmaw.resources
+D:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmgrind.resources
+D:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmqc.resources
+D:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.csprojResolveAssemblyReference.cache
+D:\Tracking\Cutting\Cutting\bin\Debug\chartDatabase1.mdf
+D:\Tracking\Cutting\Cutting\bin\Debug\chartDatabase1_log.ldf
+E:\Cutting\Cutting\obj\x86\Debug\Cutting.exe
+E:\Cutting\Cutting\obj\x86\Debug\Cutting.pdb
+E:\Cutting\Cutting\bin\Debug\chartDatabase1.mdf
+E:\Cutting\Cutting\bin\Debug\chartDatabase1_log.ldf
+E:\Cutting\Cutting\bin\Debug\Cutting.exe
+E:\Cutting\Cutting\bin\Debug\Cutting.pdb
+E:\Cutting\Cutting\obj\x86\Debug\Cutting.csprojResolveAssemblyReference.cache
+E:\Cutting\Cutting\obj\x86\Debug\Cutting.frmaw.resources
+E:\Cutting\Cutting\obj\x86\Debug\Cutting.frmcut.resources
+E:\Cutting\Cutting\obj\x86\Debug\Cutting.frmqc.resources
+E:\Cutting\Cutting\obj\x86\Debug\Cutting.frmgrind.resources
+E:\Cutting\Cutting\obj\x86\Debug\Cutting.MDItrack.resources
+E:\Cutting\Cutting\obj\x86\Debug\Cutting.Properties.Resources.resources
+E:\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.GenerateResource.Cache
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.exe
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.pdb
+E:\Tracking\Cutting\Cutting\bin\Debug\Cutting.exe
+E:\Tracking\Cutting\Cutting\bin\Debug\Cutting.pdb
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmqc.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmgrind.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.MDItrack.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Properties.Resources.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.GenerateResource.Cache
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.exe
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.pdb
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\Cutting.exe
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\Cutting.pdb
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmcut.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmqc.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmgrind.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.MDItrack.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Properties.Resources.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.GenerateResource.Cache
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\Cutting.exe.config
+E:\Tracking\Cutting\Cutting\bin\Debug\Cutting.exe.config
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Reject.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmPrint.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmTemp.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmPrint.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmTemp.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Reject.resources
+E:\Tracking Backup\Tracking\Cutting\Cutting\bin\Debug\Cutting.exe.config
+E:\Tracking Backup\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.exe
+E:\Tracking Backup\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.pdb
+E:\Tracking Backup\Tracking\Cutting\Cutting\bin\Debug\chartDatabase1.mdf
+E:\Tracking Backup\Tracking\Cutting\Cutting\bin\Debug\chartDatabase1_log.ldf
+E:\Tracking Backup\Tracking\Cutting\Cutting\bin\Debug\Cutting.exe
+E:\Tracking Backup\Tracking\Cutting\Cutting\bin\Debug\Cutting.pdb
+E:\Tracking Backup\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.csprojResolveAssemblyReference.cache
+E:\Tracking Backup\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmcut.resources
+E:\Tracking Backup\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmPrint.resources
+E:\Tracking Backup\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmqc.resources
+E:\Tracking Backup\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmTemp.resources
+E:\Tracking Backup\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Reject.resources
+E:\Tracking Backup\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmgrind.resources
+E:\Tracking Backup\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.MDItrack.resources
+E:\Tracking Backup\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.OrderEntry.resources
+E:\Tracking Backup\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Properties.Resources.resources
+E:\Tracking Backup\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.GenerateResource.Cache
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FRM_dispatch.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Lam.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_IGU.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FRM_dispatch.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_IGU.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Lam.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_OrderEntry.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Track.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Track.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_OrderEntry.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmcut.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmBarCode.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmBarCode.resources
+E:\Programming\Tracking\Cutting\Cutting\bin\Debug\Cutting.exe.config
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.exe
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.pdb
+E:\Programming\Tracking\Cutting\Cutting\bin\Debug\chartDatabase1.mdf
+E:\Programming\Tracking\Cutting\Cutting\bin\Debug\chartDatabase1_log.ldf
+E:\Programming\Tracking\Cutting\Cutting\bin\Debug\Cutting.exe
+E:\Programming\Tracking\Cutting\Cutting\bin\Debug\Cutting.pdb
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.csprojResolveAssemblyReference.cache
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmcut.resources
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmBarCode.resources
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmPrint.resources
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmqc.resources
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmTemp.resources
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FRM_dispatch.resources
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_IGU.resources
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Lam.resources
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Reject.resources
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmgrind.resources
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Track.resources
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.MDItrack.resources
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_OrderEntry.resources
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Properties.Resources.resources
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.GenerateResource.Cache
+E:\Programming\Tracking\Cutting\Cutting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.DepWasteReport.resources
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\RdlCompile.cache
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\RdlCompile.compiled
+E:\Programming\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.RejWasteReport.resources
+E:\Tracking\Cutting\Cutting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.DepWasteReport.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.RejWasteReport.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\RdlCompile.cache
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\RdlCompile.compiled
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.ResolveComReference.cache
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.ResolveComReference.cache
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.DepWasteReport.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.RejWasteReport.resources
+E:\Programming\Cutting\Cutting\bin\Debug\Cutting.exe.config
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.ResolveComReference.cache
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.exe
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.pdb
+E:\Programming\Cutting\Cutting\bin\Debug\Cutting.exe
+E:\Programming\Cutting\Cutting\bin\Debug\Cutting.pdb
+E:\Programming\Cutting\Cutting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.DepWasteReport.resources
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.frmcut.resources
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.FrmBarCode.resources
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.FrmPrint.resources
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.frmqc.resources
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.FrmTemp.resources
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.FRM_dispatch.resources
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_IGU.resources
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Lam.resources
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Reject.resources
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.frmgrind.resources
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Track.resources
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.MDItrack.resources
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_OrderEntry.resources
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.Properties.Resources.resources
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.RejWasteReport.resources
+E:\Programming\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.GenerateResource.Cache
+E:\Programming\Cutting\Cutting\obj\x86\Debug\RdlCompile.cache
+E:\Programming\Cutting\Cutting\obj\x86\Debug\RdlCompile.compiled
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Resources.frmAris.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmAris.resources
+E:\Programming\13-11-2017\Cutting\Cutting\bin\Debug\Cutting.exe.config
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.ResolveComReference.cache
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.exe
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.pdb
+E:\Programming\13-11-2017\Cutting\Cutting\bin\Debug\Cutting.exe
+E:\Programming\13-11-2017\Cutting\Cutting\bin\Debug\Cutting.pdb
+E:\Programming\13-11-2017\Cutting\Cutting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.csprojResolveAssemblyReference.cache
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.DepWasteReport.resources
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.frmAris.resources
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.frmcut.resources
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.FrmBarCode.resources
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.FrmPrint.resources
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.frmqc.resources
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.FrmTemp.resources
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.FRM_dispatch.resources
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_IGU.resources
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Lam.resources
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Reject.resources
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.frmgrind.resources
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Track.resources
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.MDItrack.resources
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_OrderEntry.resources
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.Properties.Resources.resources
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.RejWasteReport.resources
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.Resources.frmAris.resources
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.GenerateResource.Cache
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\RdlCompile.cache
+E:\Programming\13-11-2017\Cutting\Cutting\obj\x86\Debug\RdlCompile.compiled
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Balance.resources
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Data.v15.2.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraBars.v15.2.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Office.v15.2.Core.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Data.v15.2.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraBars.v15.2.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Office.v15.2.Core.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.DXCore.Controls.XtraGrid.v6.3.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraPdfViewer.v15.2.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraPdfViewer.v15.2.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraPdfViewer.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraPdfViewer.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraPdfViewer.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraPdfViewer.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FRMStock.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.exe.licenses
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\Cutting.exe.config
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.csproj.ResolveComReference.cache
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.exe
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.pdb
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.csprojResolveAssemblyReference.cache
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.Balance.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.DepWasteReport.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.frmAris.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.frmcut.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.FrmBarCode.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.FrmPrint.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.frmqc.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.FRMStock.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.FrmTemp.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.FRM_dispatch.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.Frm_IGU.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.Frm_Lam.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.Frm_Reject.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.frmgrind.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.Frm_Track.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.MDItrack.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.Frm_OrderEntry.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.Properties.Resources.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.RejWasteReport.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.Resources.frmAris.resources
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.csproj.GenerateResource.Cache
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Cutting.exe.licenses
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\RdlCompile.cache
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\RdlCompile.compiled
+C:\Share\Smart Project\22-1-2018\Cutting\obj\x86\Debug\Interop.DXTRANSLib.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\Cutting.exe
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\Cutting.pdb
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.DXCore.Controls.XtraGrid.v6.3.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraPdfViewer.v15.2.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraPdfViewer.v15.2.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Share\Smart Project\22-1-2018\Cutting\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\Cutting.exe.config
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Interop.DXTRANSLib.dll
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.csproj.ResolveComReference.cache
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.exe
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.pdb
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.csprojResolveAssemblyReference.cache
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.Balance.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.DepWasteReport.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.frmAris.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.frmcut.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.FrmBarCode.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.FrmPrint.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.frmqc.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.FRMStock.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.FrmTemp.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.FRM_dispatch.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.Frm_IGU.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.Frm_Lam.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.Frm_Reject.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.frmgrind.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.Frm_Track.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.MDItrack.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.Frm_OrderEntry.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.Properties.Resources.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.RejWasteReport.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.Resources.frmAris.resources
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.csproj.GenerateResource.Cache
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\Cutting.exe.licenses
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\RdlCompile.cache
+E:\Programming\22-1-2018 Stable\Cutting\obj\x86\Debug\RdlCompile.compiled
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\Cutting.exe
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\Cutting.pdb
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.Data.v15.2.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.DXCore.Controls.XtraGrid.v6.3.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.Utils.v15.2.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraBars.v15.2.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraPdfViewer.v15.2.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.Office.v15.2.Core.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.Data.v15.2.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.Utils.v15.2.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraBars.v15.2.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraPdfViewer.v15.2.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\DevExpress.Office.v15.2.Core.xml
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.XtraPdfViewer.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.XtraPdfViewer.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.XtraPdfViewer.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.XtraPdfViewer.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+E:\Programming\22-1-2018 Stable\Cutting\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Interop.DXTRANSLib.dll
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.csprojResolveAssemblyReference.cache
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\Cutting.exe.config
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Interop.DXTRANSLib.dll
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.ResolveComReference.cache
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.exe
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.pdb
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.csprojResolveAssemblyReference.cache
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.Balance.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.DepWasteReport.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.frmAris.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.frmcut.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.FrmBarCode.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.FrmPrint.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.frmqc.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.FRMStock.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.FrmTemp.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.FRM_dispatch.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_IGU.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Lam.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Reject.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.frmgrind.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Track.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.MDItrack.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_OrderEntry.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.Properties.Resources.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.RejWasteReport.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.Resources.frmAris.resources
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.GenerateResource.Cache
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\Cutting.exe.licenses
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\RdlCompile.cache
+E:\Programming\5-8-2018\Cutting\Cutting\obj\x86\Debug\RdlCompile.compiled
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\Cutting.exe
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\Cutting.pdb
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.Data.v15.2.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.DXCore.Controls.XtraGrid.v6.3.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraBars.v15.2.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraPdfViewer.v15.2.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.Office.v15.2.Core.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.Data.v15.2.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraBars.v15.2.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraPdfViewer.v15.2.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\DevExpress.Office.v15.2.Core.xml
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.XtraPdfViewer.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.XtraPdfViewer.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraPdfViewer.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraPdfViewer.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+E:\Programming\5-8-2018\Cutting\Cutting\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmBonding.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Interop.DXTRANSLib.dll
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Balance.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmAris.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmBonding.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FRMStock.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Resources.frmAris.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.exe.licenses
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Data.v15.2.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraBars.v15.2.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraPdfViewer.v15.2.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Office.v15.2.Core.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Data.v15.2.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraBars.v15.2.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraPdfViewer.v15.2.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Office.v15.2.Core.xml
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.csprojResolveAssemblyReference.cache
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmSand.resources
+D:\C#\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_login.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmSand.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_login.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmBarCodeSend.resources
+E:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmReworkReject.resources
+G:\Tracking\Cutting\Cutting\bin\Debug\Cutting.exe.config
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Interop.DXTRANSLib.dll
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.ResolveComReference.cache
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.exe
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.pdb
+G:\Tracking\Cutting\Cutting\bin\Debug\Cutting.exe
+G:\Tracking\Cutting\Cutting\bin\Debug\Cutting.pdb
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Data.v15.2.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.DXCore.Controls.XtraGrid.v6.3.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraBars.v15.2.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraPdfViewer.v15.2.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Office.v15.2.Core.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Data.v15.2.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraBars.v15.2.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraPdfViewer.v15.2.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\DevExpress.Office.v15.2.Core.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraPdfViewer.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraPdfViewer.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraPdfViewer.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraPdfViewer.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.csprojResolveAssemblyReference.cache
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Balance.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.DepWasteReport.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmAris.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmBarCodeSend.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmBonding.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmcut.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmBarCode.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmReworkReject.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmSand.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmPrint.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmqc.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FRMStock.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FrmTemp.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.FRM_dispatch.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_IGU.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Lam.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_login.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Reject.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmgrind.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Track.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.MDItrack.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_OrderEntry.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Properties.Resources.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.RejWasteReport.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.Resources.frmAris.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.GenerateResource.Cache
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.exe.licenses
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\RdlCompile.cache
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\RdlCompile.compiled
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmTime.resources
+G:\Tracking\Cutting\Cutting\obj\x86\Debug\Cutting.frmOrderProdTime.resources
+G:\Tracking\Cutting\Cutting\bin\Debug\Bunifu.Licensing.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\Kimtoo.ButtonGroup.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\NavigationMenu.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\Newtonsoft.Json.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ServiceStack.OrmLite.MySql.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ServiceStack.OrmLite.PostgreSQL.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+G:\Tracking\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\Newtonsoft.Json.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\ServiceStack.OrmLite.MySql.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+G:\Tracking\Cutting\Cutting\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.AssemblyReference.cache
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Interop.DXTRANSLib.dll
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.ResolveComReference.cache
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.exe
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.pdb
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.Balance.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.DepWasteReport.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.frmAris.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.FrmBarCodeSend.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.FrmBonding.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.frmcut.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.FrmBarCode.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.frmOrderProdTime.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.FrmReworkReject.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.FrmSand.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.FrmPrint.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.frmqc.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.FRMStock.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.FrmTemp.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.frmTime.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.FRM_dispatch.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_IGU.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Lam.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_login.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Reject.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.frmgrind.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_Track.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.MDItrack.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.Frm_OrderEntry.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.Properties.Resources.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.RejWasteReport.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.Resources.frmAris.resources
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.GenerateResource.cache
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.exe.licenses
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.CoreCompileInputs.cache
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Cutting.exe.config
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Cutting.exe
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Cutting.pdb
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.Licensing.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.Utils.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Kimtoo.ButtonGroup.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\NavigationMenu.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Newtonsoft.Json.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ServiceStack.OrmLite.MySql.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ServiceStack.OrmLite.Oracle.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ServiceStack.OrmLite.PostgreSQL.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.Office.v15.2.Core.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.Data.v15.2.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.XtraBars.v15.2.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.XtraPdfViewer.v15.2.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\Newtonsoft.Json.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ServiceStack.OrmLite.MySql.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\DevExpress.Office.v15.2.Core.xml
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.csproj.Up2Date
+D:\Project\Glass\Cutting\Cutting\obj\x86\Debug\Cutting.FrmManualOrderEntry.resources
