@@ -195,6 +195,7 @@ namespace Cutting
                 //addItem.Glass_ID = int.Parse(DGV_Item.Rows[i].Cells[5].Value.ToString());
                 //addItem.Pos = int.Parse(DGV_Item.Rows[i].Cells[6].Value.ToString());
 
+
                 _orderEnter.ITEMs.InsertOnSubmit(addItem);
             }
             _orderEnter.SubmitChanges();
