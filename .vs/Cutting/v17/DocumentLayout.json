@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\a.elhusseiny\\source\\repos\\Aly-El-Husseiny\\Tracking-System\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{CEF89859-A93D-4237-87DC-9DFC2EA8CE5D}|Cutting.csproj|C:\\Users\\a.elhusseiny\\source\\repos\\Aly-El-Husseiny\\Tracking-System\\frm_manualorderentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{CEF89859-A93D-4237-87DC-9DFC2EA8CE5D}|Cutting.csproj|c:\\users\\a.elhusseiny\\source\\repos\\aly-el-husseiny\\tracking-system\\frm_manualorderentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 737516476cc43ad0c500b3bc369cc63969a350de
       "RelativeMoniker": "D:0:0:{CEF89859-A93D-4237-87DC-9DFC2EA8CE5D}|Cutting.csproj|solutionrelative:frm_manualorderentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -90,7 +94,11 @@
               "RelativeDocumentMoniker": "Frm_ManualOrderEntry.cs",
               "ToolTip": "C:\\Users\\a.elhusseiny\\source\\repos\\Aly-El-Husseiny\\Tracking-System\\Frm_ManualOrderEntry.cs*",
               "RelativeToolTip": "Frm_ManualOrderEntry.cs*",
+<<<<<<< HEAD
               "ViewState": "AQIAAJIAAAAAAAAAAAAtwJ4AAAAyAAAA",
+=======
+              "ViewState": "AQIAAJIAAAAAAAAAAAAtwK8AAAB7AAAA",
+>>>>>>> 737516476cc43ad0c500b3bc369cc63969a350de
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T14:48:27.798Z",
               "EditorCaption": ""
@@ -105,8 +113,12 @@
               "RelativeToolTip": "Frm_OrderEntry.cs",
               "ViewState": "AQIAABQBAAAAAAAAAAAjwOsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2024-12-04T19:59:36.991Z",
               "EditorCaption": ""
+=======
+              "WhenOpened": "2024-12-04T19:59:36.991Z"
+>>>>>>> 737516476cc43ad0c500b3bc369cc63969a350de
             },
             {
               "$type": "Document",
@@ -115,8 +127,12 @@
               "DocumentMoniker": "ViewDataWindow_MSSQL__/Aelhussieny_IT_SQLEXPRESS/Tracking/True/SqlTable/dbo.ITEM.sql",
               "ToolTip": "dbo.ITEM [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+<<<<<<< HEAD
               "WhenOpened": "2024-12-04T19:31:04.649Z",
               "EditorCaption": ""
+=======
+              "WhenOpened": "2024-12-04T19:31:04.649Z"
+>>>>>>> 737516476cc43ad0c500b3bc369cc63969a350de
             },
             {
               "$type": "Document",
@@ -125,8 +141,12 @@
               "DocumentMoniker": "ViewDataWindow_MSSQL__/Aelhussieny_IT_SQLEXPRESS/Tracking/True/SqlTable/dbo.Order.sql",
               "ToolTip": "dbo.Order [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+<<<<<<< HEAD
               "WhenOpened": "2024-12-04T17:28:10.59Z",
               "EditorCaption": ""
+=======
+              "WhenOpened": "2024-12-04T17:28:10.59Z"
+>>>>>>> 737516476cc43ad0c500b3bc369cc63969a350de
             }
           ]
         }
