@@ -149,7 +149,7 @@ namespace Cutting
             if (lastOrder == null)
                 orderNumber = 10000;
             else
-                orderNumber += lastOrder.OC_ID;
+                orderNumber = lastOrder.OC_ID + 1;
 
             Order order = new Order();
 
@@ -300,37 +300,59 @@ namespace Cutting
 
         private void btn_Search_Click(object sender, EventArgs e)
         {
-            var order = _orderEnter.Orders.FirstOrDefault(o => o.OC_ID == int.Parse(txt_OD_ID.Text));
-            if (order != null)
-            {
-                txt_Customer.Text = order.Clinet_Name;
-                txt_Project.Text = order.Project_Name;
-                txt_Note.Text = "";
-                txt_FullDesc.Text = order.Descreption;
-                txt_TQTY.Text = order.TQTY.ToString();
-                txt_TSQM.Text = order.TSQM.ToString();
-                txt_TLM.Text = order.TLM.ToString();
+            if(txt_OD_ID.Text.IsEmpty())
+                MessageBox.Show("please enter order number", "search error", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
-                //comboGrindProcess.SelectedItem = order.Grind_Type;
-                var grindProcess = _orderEnter.Processes.FirstOrDefault(o => o.ID == order.Grind_Type).Process_Name;
-                var printProcess = _orderEnter.Processes.FirstOrDefault(o => o.ID == order.Print_type).Process_Name;
-                var lGProcess = _orderEnter.Processes.FirstOrDefault(o => o.ID == order.LG_Type).Process_Name;
-                var iguProcess = _orderEnter.Processes.FirstOrDefault(o => o.ID == order.IGU_type).Process_Name;
-                var bondingProcess = _orderEnter.Processes.FirstOrDefault(o => o.ID == order.Bonding_Type).Process_Name;
-
-                if (grindProcess != null)
-                    comboGrindProcess.Text = grindProcess;
-                if (printProcess != null)
-                    comboPrintProcess.Text = printProcess;
-                if (lGProcess != null)
-                    comboLGProcess.Text = lGProcess; 
-                if (iguProcess != null)
-                    comboIGUProcess.Text = iguProcess; 
-                if (bondingProcess != null)
-                    comboBondingProcess.Text = bondingProcess; 
-            }
             else
-                MessageBox.Show("this order not found", "search error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            {
+                var order = _orderEnter.Orders.FirstOrDefault(o => o.OC_ID == int.Parse(txt_OD_ID.Text));
+                if (order != null)
+                {
+                    txt_Customer.Text = order.Clinet_Name;
+                    txt_Project.Text = order.Project_Name;
+                    txt_Note.Text = "";
+                    txt_FullDesc.Text = order.Descreption;
+                    txt_TQTY.Text = order.TQTY.ToString();
+                    txt_TSQM.Text = order.TSQM.ToString();
+                    txt_TLM.Text = order.TLM.ToString();
+
+                    //comboGrindProcess.SelectedItem = order.Grind_Type;
+                    var grindProcess = _orderEnter.Processes.FirstOrDefault(o => o.ID == order.Grind_Type)?.Process_Name;
+                    var printProcess = _orderEnter.Processes.FirstOrDefault(o => o.ID == order.Print_type)?.Process_Name;
+                    var lGProcess = _orderEnter.Processes.FirstOrDefault(o => o.ID == order.LG_Type)?.Process_Name;
+                    var iguProcess = _orderEnter.Processes.FirstOrDefault(o => o.ID == order.IGU_type)?.Process_Name;
+                    var bondingProcess = _orderEnter.Processes.FirstOrDefault(o => o.ID == order.Bonding_Type)?
+                        .Process_Name;
+
+                    if (grindProcess != null)
+                        comboGrindProcess.Text = grindProcess;
+                    if (printProcess != null)
+                        comboPrintProcess.Text = printProcess;
+                    if (lGProcess != null)
+                        comboLGProcess.Text = lGProcess;
+                    if (iguProcess != null)
+                        comboIGUProcess.Text = iguProcess;
+                    if (bondingProcess != null)
+                        comboBondingProcess.Text = bondingProcess;
+                }
+                else
+                    MessageBox.Show("this order not found", "search error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void txt_OD_ID_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            // Allow control characters like Backspace
+            if (char.IsControl(e.KeyChar))
+            {
+                return;
+            }
+
+            // Allow digits and the decimal point
+            if (!char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;  // Ignore the character if it's not a digit or decimal point
+            }
         }
     }
 }

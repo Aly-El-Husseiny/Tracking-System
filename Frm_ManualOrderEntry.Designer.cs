@@ -315,6 +315,7 @@
             // 
             resources.ApplyResources(this.txt_OD_ID, "txt_OD_ID");
             this.txt_OD_ID.Name = "txt_OD_ID";
+            this.txt_OD_ID.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txt_OD_ID_KeyPress);
             // 
             // tableLayoutPanel5
             // 
